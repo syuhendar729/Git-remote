@@ -1,2 +1,2 @@
-# git-remote
-Belajar git remote -WPU
+# Git-remote
+Belajar git remote, github -> git local
